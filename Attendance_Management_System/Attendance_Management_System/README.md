@@ -1,1 +1,1 @@
-# Attendance_Management_System_2-Suleyman_RifkiCan_MesutNafiz_BerkOzum
+# Attendance_Management_System_2-RifkiCan_MesutNafiz
